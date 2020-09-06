@@ -2,3 +2,5 @@ Since every contributor has a full copy of the project repository, they can shar
 repository.
 
 Dino is sleeping.
+
+Dino is changing file online.
