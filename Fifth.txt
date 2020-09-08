@@ -5,3 +5,6 @@ Not Good
 File
 
 File fixed online.
+
+
+Smarttgit fast forward merge comments.
