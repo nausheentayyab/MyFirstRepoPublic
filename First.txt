@@ -4,3 +4,6 @@ repository.
 Dino is sleeping.
 
 Dino is changing file online.
+
+
+Fast forward merge comment
