@@ -7,3 +7,5 @@ Dino is changing file online.
 
 
 Fast forward merge comment
+
+Another comment for merge commit
