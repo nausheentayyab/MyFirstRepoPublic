@@ -7,3 +7,6 @@ always need an internet
 connection.
 
 File changed online at Github
+
+
+Another change for foast forward commit exaple
