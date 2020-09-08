@@ -8,3 +8,5 @@ File fixed online.
 
 
 Smarttgit fast forward merge comments.
+
+Merrge commit change # 1
